@@ -1,8 +1,5 @@
 ### Olá, eu sou o Felipe Lemos!
 
-- 🔭 Atualmente trabalho como Agente Educador em um escola pública do Rio de Janeiro.
-- 🌱 Graduando em Tecnologia em Sistema de Computação 4/6.
-
 <div align="center">
   <a href="https://github.com/FelipeLSP">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeLSP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
